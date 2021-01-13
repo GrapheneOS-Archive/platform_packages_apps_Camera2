@@ -47,7 +47,6 @@ import com.android.camera.one.OneCameraModule;
 import com.android.camera.settings.PictureSizeLoader.PictureSizes;
 import com.android.camera.settings.SettingsUtil.SelectedVideoQualities;
 import com.android.camera.util.CameraSettingsActivityHelper;
-import com.android.camera.util.GoogleHelpHelper;
 import com.android.camera.util.Size;
 import com.android.camera2.R;
 import com.android.ex.camera2.portability.CameraAgentFactory;
